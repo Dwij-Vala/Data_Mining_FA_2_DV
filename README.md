@@ -11,7 +11,6 @@
 
 ## 🌐 Live App
 
-👉 Add your Streamlit link here:
 [Click here to view the app](https://atm-app-dwij.streamlit.app/)
 
 ---

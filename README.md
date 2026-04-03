@@ -15,6 +15,26 @@
 
 ---
 
+## 📌 App Evidence
+
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/e29692a6-750a-4102-9389-9d5c9bf645e0" />
+<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/e611d47d-cc56-4b93-bac7-65b5e4ef7d56" />
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/7341361f-6477-4197-bd19-8efe9d7fdcb3" />
+<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/c2387dd5-7646-4771-a568-17df507f6246" />
+<img width="1914" height="913" alt="image" src="https://github.com/user-attachments/assets/4717f1a8-8788-49c7-9502-8d42213af401" />
+<img width="1917" height="919" alt="image" src="https://github.com/user-attachments/assets/d5fe70b0-6f00-4c3e-93d1-4df3bf4ac828" />
+<img width="1916" height="915" alt="image" src="https://github.com/user-attachments/assets/25fd710c-e14c-407e-b9c9-8931a805628a" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/eb3169da-45cd-49ec-be50-40d3bdf94d4f" />
+
+
+
+
+
+
+
+
+---
+
 ## 📌 Project Overview
 
 This project focuses on analyzing ATM transaction data to generate actionable insights for efficient cash management. It applies data mining techniques such as Exploratory Data Analysis (EDA), clustering, and anomaly detection to understand demand patterns and support decision-making.
